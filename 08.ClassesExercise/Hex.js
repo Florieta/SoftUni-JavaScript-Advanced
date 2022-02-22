@@ -23,4 +23,3 @@ class Hex {
       return parseInt(string, 16);
     }
   }
-  
